@@ -29,4 +29,8 @@ public class BookRowMapper implements RowMapper<Book>
 
         return book;
     }
+    
+    public class Bookmap {
+        //dit is een test
+    }
 }
